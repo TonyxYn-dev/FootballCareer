@@ -1,0 +1,7 @@
+{
+  "project_name": "Football Career: Become a Legend",
+  "save_directory": "saves",
+  "schema_version": 1,
+  "data_policy": "real_world_records_require_source_and_retrieval_date",
+  "design_policy": "unconfirmed_rules_must_be_marked_TODO_design"
+}
